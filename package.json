@@ -1,0 +1,28 @@
+{
+  "name": "nodesql",
+  "version": "1.0.0",
+  "description": "Node using connection to mySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "test command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eduardopeixe/nodesql.git"
+  },
+  "keywords": [
+    "node.js",
+    "nodejs",
+    "node",
+    "mySQL"
+  ],
+  "author": "Eduardo Peixe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardopeixe/nodesql/issues"
+  },
+  "homepage": "https://github.com/eduardopeixe/nodesql",
+  "dependencies": {
+    "mysql": "^2.11.1"
+  }
+}
